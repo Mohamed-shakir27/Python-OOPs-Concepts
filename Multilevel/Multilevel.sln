@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Multilevel", "Multilevel\Multilevel.pyproj", "{FE4EBE62-C553-49C7-8913-0F7B4731E61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4EBE62-C553-49C7-8913-0F7B4731E61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4EBE62-C553-49C7-8913-0F7B4731E61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739CB52A-8707-4B88-AC4B-0BB6C7778D8C}
+	EndGlobalSection
+EndGlobal

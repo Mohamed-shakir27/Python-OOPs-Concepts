@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SingleInheritance", "SingleInheritance\SingleInheritance.pyproj", "{A73F3249-04E3-4482-AFDB-8FE76322B09C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.pyproj", "{8EA670A7-B71C-46CE-99BE-36038CC98535}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MultiLevelInheritance", "MultiLevelInheritance\MultiLevelInheritance.pyproj", "{67FC89EC-D0E9-4E2C-A982-727F8EAF4DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73F3249-04E3-4482-AFDB-8FE76322B09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73F3249-04E3-4482-AFDB-8FE76322B09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA670A7-B71C-46CE-99BE-36038CC98535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA670A7-B71C-46CE-99BE-36038CC98535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FC89EC-D0E9-4E2C-A982-727F8EAF4DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FC89EC-D0E9-4E2C-A982-727F8EAF4DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845B679D-4DB9-4070-AA64-E27589E78017}
+	EndGlobalSection
+EndGlobal
